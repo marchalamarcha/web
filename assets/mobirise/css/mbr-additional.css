@@ -5360,6 +5360,48 @@ section.lazy-placeholder:after {
   color: #ffffff;
   text-align: center;
 }
+.cid-sBMImkSeJa {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #333333;
+}
+.cid-sBMImkSeJa .card-img {
+  background-color: #fff;
+}
+.cid-sBMImkSeJa .card {
+  align-self: stretch;
+}
+.cid-sBMImkSeJa .card-box {
+  padding: 2rem;
+}
+.cid-sBMImkSeJa h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+}
+.cid-sBMImkSeJa p {
+  text-align: left;
+}
+.cid-sBMImkSeJa .mbr-text {
+  color: #767676;
+}
+.cid-sBMImkSeJa .card-wrapper {
+  height: 100%;
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  transition: box-shadow 0.3s;
+}
+.cid-sBMImkSeJa .card-wrapper:hover {
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.3s;
+}
+@media (min-width: 992px) {
+  .cid-sBMImkSeJa .my-col {
+    flex: 0 0 20%;
+    max-width: 20%;
+    padding: 15px;
+    -webkit-flex: 0 0 20%;
+  }
+}
 .cid-sBMF7CjPp9 {
   padding-top: 0px;
   padding-bottom: 0px;
