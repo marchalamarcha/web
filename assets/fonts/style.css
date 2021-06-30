@@ -3,3 +3,8 @@
    font-display: swap;
    src: url('font/font.ttf');
 }
+@font-face {
+   font-family: 'font';
+   font-display: swap;
+   src: url('font/font.ttf');
+}
